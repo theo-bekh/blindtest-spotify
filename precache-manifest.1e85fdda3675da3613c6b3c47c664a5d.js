@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41fc64e791d31797bdbd309ea6b831e1",
+    "revision": "1e04b06d68c2f0ada2e47bc717d8e0c8",
     "url": "/blindtest-spotify/index.html"
   },
   {
-    "revision": "213720190fcd0142f557",
+    "revision": "09d5a57e74aeafab04b7",
     "url": "/blindtest-spotify/static/css/main.edb96105.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blindtest-spotify/static/js/2.449eb75e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "213720190fcd0142f557",
-    "url": "/blindtest-spotify/static/js/main.7afaaaa4.chunk.js"
+    "revision": "09d5a57e74aeafab04b7",
+    "url": "/blindtest-spotify/static/js/main.13ea68e0.chunk.js"
   },
   {
     "revision": "378028445f9cb0e378bd",
